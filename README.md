@@ -30,7 +30,7 @@
 | [**ai-siem**]                                                            | Serverless SIEM leveraging LLMs + RAG for real‑time triage. | Python · AWS Lambda · LangChain |
 | [**pentest-toolkit**]                                                    | Modular CLI for recon & fuzzing.                            | Go                              |
 | [**react-secure-auth**]                                                  | WebAuthn & TOTP auth boilerplate.                           | React · NextAuth                |
-| [**little-duck**](https://github.com/EYoltic20/CompilerLDCK)             | "Little Duck" compiler built from scratch.                  | C++                             |
+| [**little-duck**](https://github.com/EYoltic20/CompilerLDCK)             | "Little Duck" compiler built from scratch.                  | Python                             |
 
 ## 🎯 2025 Goals
 
